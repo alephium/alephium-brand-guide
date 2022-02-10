@@ -1,4 +1,4 @@
-# alephium-brand-guide
+# Alephium Brand Guide
 Repository for Alephium's production-ready graphic identity.
 
 ## Colors
