@@ -10,16 +10,16 @@ Repository for Alephium's production-ready graphic identity.
 
 ### Gradients
 - #### Laser Chrome
-  - White: #FFFFFF
-  - Salmon: #FF5D51
-  - Bordeaux: #8B1F41
-  - Blue: #1200DA
-  - Cyan: #33DDFF
+  - White: #ffffff
+  - Salmon: #ff5d51
+  - Bordeaux: #8b1f41
+  - Blue: #1200da
+  - Cyan: #33ddff
 - #### Retro Sunset:
-  - Navy blue: #1F01A7
-  - Purple: #7200FE
-  - Orange: #F77F56
-  - Red: #FA1E32
+  - Navy blue: #1f01a7
+  - Purple: #7200fe
+  - Orange: #f77f56
+  - Red: #fa1e32
 - #### Gold
   - #ffbb3e
   - #ffcb67
