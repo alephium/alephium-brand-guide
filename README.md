@@ -8,11 +8,6 @@ Repository for Alephium's production-ready graphic identity.
 - Black: #000000
 - White: #ffffff
 
-### Grays
-- mountain-1st-plan: #D8D8D8
-- mountain-2nd-plan: #E5E5E5
-- mountain-3rd-plan: #ECECEC
-
 ### Gradients
 - #### Laser Chrome
   - White: #FFFFFF
