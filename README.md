@@ -7,12 +7,13 @@ We love having both dark and light themes. Make sure to use the right logo to en
 
 The left part of the logo must be either pure black or pure white depending on your background. The top right accent must use one of the variation below.
 
-![image](https://user-images.githubusercontent.com/3484593/153607682-8cf88f57-f92e-4abc-befb-f3d093d8258a.png)
+![image](https://user-images.githubusercontent.com/3484593/153619941-3239b962-e0de-4676-a584-1f8b46ee7c50.png)
+
 
 ## Logo's layout
 
-Here are the 3 possible layouts for external usage. Avoid using the wordmark alone.
-![image](https://user-images.githubusercontent.com/3484593/153607632-0c3a0707-5bd4-4ea2-9a15-5c9f5b8c6925.png)
+![image](https://user-images.githubusercontent.com/3484593/153619901-d8dca6b7-81a5-4d70-8b24-e0cf814dadab.png)
+
 
 
 ## Colors
