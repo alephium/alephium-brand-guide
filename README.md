@@ -22,26 +22,6 @@ Here are the 3 possible layouts for external usage. Avoid using the wordmark alo
 - Black: #000000
 - White: #ffffff
 
-### Gradients
-
-![image](https://user-images.githubusercontent.com/3484593/153607507-88d8a8f3-e61c-4e7d-867d-1b3747b8f646.png)
-
-- #### Laser Chrome
-  - White: #ffffff
-  - Orange: #ff5d51
-  - Bordeaux: #8b1f41
-  - Blue: #1200da
-  - Cyan: #33ddff
-- #### Retro Sunset:
-  - Navy blue: #1f01a7
-  - Purple: #7200fe
-  - Orange: #f77f56
-  - Red: #fa1e32
-- #### Gold
-  - #ffbb3e
-  - #ffcb67
-  - #fff5d8
-
 ## Fonts
 
 ### The Inter typeface family
