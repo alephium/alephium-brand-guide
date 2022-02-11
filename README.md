@@ -5,9 +5,10 @@ Repository for Alephium's production-ready graphic identity. Alephium is a young
 
 We love having both dark and light themes. Make sure to use the right logo to ensure good contrast.
 
-The left part of the logo must be either pure black or pure white depending on your background. The top right accent must use one of the variation below.
+The left part of the logo must be either pure black or pure white depending on your background. The top right accent must Orange/red (#ff5d51)
 
-![image](https://user-images.githubusercontent.com/3484593/153619941-3239b962-e0de-4676-a584-1f8b46ee7c50.png)
+![image](https://user-images.githubusercontent.com/3484593/153620586-ccfbd7cd-8362-4cf5-ab67-77b593cd8ca5.png)
+
 
 
 ## Logo's layout
