@@ -28,7 +28,7 @@ Here are the 3 possible layouts for external usage. Avoid using the wordmark alo
 
 - #### Laser Chrome
   - White: #ffffff
-  - Salmon: #ff5d51
+  - Orange: #ff5d51
   - Bordeaux: #8b1f41
   - Blue: #1200da
   - Cyan: #33ddff
