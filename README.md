@@ -1,7 +1,7 @@
 # Alephium Brand Guide
 Repository for Alephium's production-ready graphic identity. Alephium is a project that is evolving at high pace. The brand reflects this nature and may therefor be subject to changes.
 
-## Logo's color variants
+## Logo’s variants
 
 Our logo exists in dark and light variants. We recommend using the variant with a dark grey background when the logo is used as a token image. In general, this is the preferred variant as it works well on both light and dark backgrounds.
 
