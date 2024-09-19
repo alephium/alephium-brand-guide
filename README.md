@@ -1,18 +1,18 @@
 # Alephium Brand Guide
 Repository for Alephium's production-ready graphic identity. Alephium is a project that is evolving at high pace. The brand reflects this nature and may therefor be subject to changes.
 
-## Logo's colors
+## Logo's color variants
 
-We recommend using the variant of the logo with a dark grey background when used as the token logo. In general, this is the preferred logo as it works well on both light and dark backgrounds.
+Our logo exists in dark and light variants. We recommend using the variant with a dark grey background when the logo is used as a token image. In general, this is the preferred variant as it works well on both light and dark backgrounds.
 
-![Alephium-brand-kit_1](https://github.com/user-attachments/assets/1aaacfee-3257-4452-b078-1d3c767b0583)
+![Alephium-brand-kit_logos](https://github.com/user-attachments/assets/b8289000-d42d-46b1-a26a-e9f1dccd09ac)
 
 
 ## Logo's layout
 
-Here are the 3 possible layouts for external usage. Please don't use the wordmark alone.
+Here are the 2 possible layouts for external usage. Please don't use the wordmark alone.
 
-![Alephium-brand-kit_2](https://github.com/user-attachments/assets/4f9ce375-0e63-474e-b01b-afd7c4d01e41)
+![Alephium-brand-kit_layouts](https://github.com/user-attachments/assets/d1d98680-eaaf-427e-b258-ba58fb85b427)
 
 
 ## Fonts
