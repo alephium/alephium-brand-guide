@@ -1,23 +1,25 @@
-# Alephium Brand Guide
+# Alephium Brand Guide  
 Repository for Alephium's production-ready graphic identity.
 
-## Logo’s variants
+## Logo Variants  
 
-In an effort to simplify and consolidate our branding before future evolutions, we're recommanding to use the white logo on a black backgound.
-When used as a token logo (ie. on Coinmarketcap, Coingecko etc.), please use the round logo.
-![Alephium-brand-kit_logos](https://github.com/user-attachments/assets/b8289000-d42d-46b1-a26a-e9f1dccd09ac)
+To simplify and consolidate our branding ahead of future evolutions, we recommend using the **white logo on a black background** as the default.  
 
+When used as a token logo (e.g., on platforms like CoinMarketCap or CoinGecko), please use the **round logo**.  
 
-## Logo's layout
+![Alephium-brand-kit-colors](https://github.com/user-attachments/assets/e286b03c-ff02-4260-b508-beb9015f6e70)
 
-Here are the 2 possible layouts for external usage. Please don't use the wordmark alone.
+## Logo Layout  
 
-![Alephium-brand-kit_layouts](https://github.com/user-attachments/assets/d1d98680-eaaf-427e-b258-ba58fb85b427)
+Below are the two approved logo layouts for external usage:  
+- The **logo alone** is the preferred option.  
+- Please **do not use the wordmark alone**.  
 
+![Alephium-brand-kit-layout](https://github.com/user-attachments/assets/1c979587-728f-4ec2-96b9-cc2e5688cb76)
 
-## Fonts
+## Fonts  
 
-### The Inter typeface family
-We use Inter, an open source typeface carefully crafted & designed for computer screens.
+### Inter Typeface Family  
+We use **Inter**, an open-source typeface meticulously designed for computer screens.  
 
-https://rsms.me/inter/
+You can find Inter here: [https://rsms.me/inter/](https://rsms.me/inter/)
