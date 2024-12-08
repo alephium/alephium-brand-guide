@@ -1,10 +1,10 @@
 # Alephium Brand Guide
-Repository for Alephium's production-ready graphic identity. Alephium is a project that is evolving at high pace. The brand reflects this nature and may therefor be subject to changes.
+Repository for Alephium's production-ready graphic identity.
 
 ## Logo’s variants
 
-Our logo exists in dark and light variants. We recommend using the variant with a dark grey background when the logo is used as a token image. In general, this is the preferred variant as it works well on both light and dark backgrounds.
-
+In an effort to simplify and consolidate our branding before future evolutions, we're recommanding to use the white logo on a black backgound.
+When used as a token logo (ie. on Coinmarketcap, Coingecko etc.), please use the round logo.
 ![Alephium-brand-kit_logos](https://github.com/user-attachments/assets/b8289000-d42d-46b1-a26a-e9f1dccd09ac)
 
 
