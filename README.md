@@ -3,11 +3,25 @@ Repository for Alephium's production-ready graphic identity.
 
 ## Logo Variants  
 
+<style>
+    .heatMap {
+        width: 70%;
+        text-align: center;
+    }
+    .heatMap tr:nth-child(1) { background: white; color: black; }
+    .heatMap tr:nth-child(2) { background: black; color: white; }
+    .heatMap tr:nth-child(3) { background: white; color: black; }
+</style>
+
+<div class="heatMap">
+
 | Logo | Description |
 | --- | --- |
 | <img src="https://raw.githubusercontent.com/alephium/alephium-brand-guide/refs/heads/monochrome-round/logos/svgs/Alephium-Logo-round.svg" alt="drawing" width="50"/> | Round token logo |
 | <img src="https://raw.githubusercontent.com/alephium/alephium-brand-guide/refs/heads/monochrome-round/logos/svgs/Alephium-Logo-W.svg" alt="drawing" width="50"/> | White square logo |
 | <img src="https://raw.githubusercontent.com/alephium/alephium-brand-guide/refs/heads/monochrome-round/logos/svgs/Alephium-Logo-B.svg" alt="drawing" width="50"/> | Black square logo |
+
+</div>
 
 ### Usage Guidelines
 
