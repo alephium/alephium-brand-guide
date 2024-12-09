@@ -1,23 +1,33 @@
-# Alephium Brand Guide
-Repository for Alephium's production-ready graphic identity. Alephium is a project that is evolving at high pace. The brand reflects this nature and may therefor be subject to changes.
+# Alephium Brand Guide  
+Repository for Alephium's production-ready graphic identity.
 
-## Logo’s variants
+## Logo Variants  
 
-Our logo exists in dark and light variants. We recommend using the variant with a dark grey background when the logo is used as a token image. In general, this is the preferred variant as it works well on both light and dark backgrounds.
+| Logo | Description |
+| --- | --- |
+| <img src="https://raw.githubusercontent.com/alephium/alephium-brand-guide/refs/heads/monochrome-round/logos/svgs/Alephium-Logo-round.svg" alt="drawing" width="50"/> | Round token logo |
+| <img src="https://raw.githubusercontent.com/alephium/alephium-brand-guide/refs/heads/monochrome-round/logos/svgs/Alephium-Logo-W.svg" alt="drawing" width="50"/> | White square logo |
+| <img src="https://raw.githubusercontent.com/alephium/alephium-brand-guide/refs/heads/monochrome-round/logos/svgs/Alephium-Logo-B.svg" alt="drawing" width="50"/> | Black square logo |
 
-![Alephium-brand-kit_logos](https://github.com/user-attachments/assets/b8289000-d42d-46b1-a26a-e9f1dccd09ac)
+### Usage Guidelines
 
+To simplify and consolidate our branding ahead of future evolutions, we recommend using the **white logo on a black background** as the default.  
 
-## Logo's layout
+When used as a token logo (e.g., on platforms like CoinMarketCap or CoinGecko), please use the **round logo**.  
 
-Here are the 2 possible layouts for external usage. Please don't use the wordmark alone.
+![Alephium-brand-kit-colors](https://github.com/user-attachments/assets/e286b03c-ff02-4260-b508-beb9015f6e70)
 
-![Alephium-brand-kit_layouts](https://github.com/user-attachments/assets/d1d98680-eaaf-427e-b258-ba58fb85b427)
+### Logo Layout  
 
+Below are the two approved logo layouts for external usage:  
+- The **logo alone** is the preferred option.  
+- Please **do not use the wordmark alone**.  
 
-## Fonts
+![Alephium-brand-kit-layout](https://github.com/user-attachments/assets/1c979587-728f-4ec2-96b9-cc2e5688cb76)
 
-### The Inter typeface family
-We use Inter, an open source typeface carefully crafted & designed for computer screens.
+## Fonts  
 
-https://rsms.me/inter/
+### Inter Typeface Family  
+We use **Inter**, an open-source typeface meticulously designed for computer screens.  
+
+You can find Inter here: [https://rsms.me/inter/](https://rsms.me/inter/)
