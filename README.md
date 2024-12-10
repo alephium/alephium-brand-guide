@@ -5,9 +5,9 @@ Repository for Alephium's production-ready graphic identity.
 
 | Logo | Description |
 | --- | --- |
-| <img src="https://raw.githubusercontent.com/alephium/alephium-brand-guide/refs/heads/monochrome-round/logos/svgs/Alephium-Logo-round.svg" alt="drawing" width="50"/> | Round token logo |
-| <img src="https://raw.githubusercontent.com/alephium/alephium-brand-guide/refs/heads/monochrome-round/logos/svgs/Alephium-Logo-W.svg" alt="drawing" width="50"/> | White square logo |
-| <img src="https://raw.githubusercontent.com/alephium/alephium-brand-guide/refs/heads/monochrome-round/logos/svgs/Alephium-Logo-B.svg" alt="drawing" width="50"/> | Black square logo |
+| <img src="https://raw.githubusercontent.com/alephium/alephium-brand-guide/refs/heads/master/logos/svgs/Alephium-Logo-round.svg" alt="drawing" width="50"/> | Round token logo |
+| <img src="https://raw.githubusercontent.com/alephium/alephium-brand-guide/refs/heads/master/logos/svgs/Alephium-Logo-W.svg" alt="drawing" width="50"/> | White square logo |
+| <img src="https://raw.githubusercontent.com/alephium/alephium-brand-guide/refs/heads/master/logos/svgs/Alephium-Logo-B.svg" alt="drawing" width="50"/> | Black square logo |
 
 ### Usage Guidelines
 
